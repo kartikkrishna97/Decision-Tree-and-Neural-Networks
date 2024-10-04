@@ -1,0 +1,21 @@
+for 25 
+with ccp alpha as 0.001
+training accuracy after pruning is 0.6821259741918998
+validation accuracy after pruning is 0.6436781609195402
+test accuracy after pruning is 0.6436781609195402 
+
+with ccp alpha as 0.01
+training accuracy after pruning is 0.5033857161108982
+validation accuracy after pruning is 0.4735632183908046
+test accuracy after pruning is 0.4735632183908046 
+
+with ccp alpha as 0.1 
+training accuracy after pruning is 0.5033857161108982
+validation accuracy after pruning is 0.4735632183908046
+test accuracy after pruning is 0.4735632183908046 
+
+with ccp alpha as 0.2 
+training accuracy after pruning is 0.5033857161108982
+validation accuracy after pruning is 0.4735632183908046
+test accuracy after pruning is 0.4735632183908046 
+
